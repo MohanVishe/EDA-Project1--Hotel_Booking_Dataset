@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![image](https://github.com/MohanVishe/EDA-Project1--Hotel_Booking_Dataset/assets/114080820/bfd6f165-d068-49f6-884a-ed9e5f9b1602)
+![image](https://github.com/MohanVishe/EDA-Project1--Hotel_Booking_Dataset/assets/114080820/7d364eb0-1cab-40d2-bd36-4de42ed4a37b)
 
 
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions!
